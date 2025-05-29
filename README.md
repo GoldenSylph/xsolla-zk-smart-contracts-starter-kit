@@ -1,5 +1,7 @@
 # Xsolla ZK Starter Kit
 
+### Contact to troubleshoot with: `o.bedrin@xsolla.com`
+
 ## Prerequisites
 
 Make sure that you've installed:
