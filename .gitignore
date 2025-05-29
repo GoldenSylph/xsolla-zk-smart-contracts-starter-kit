@@ -1,0 +1,35 @@
+node_modules
+.env
+
+# Hardhat and Foundry files
+/cache
+/cache_hardhat
+/cache-forge
+/artifacts
+/artifacts-forge
+
+# ZK files
+/cache-forge-zk
+/artifacts-forge-zk
+/artifacts-zk
+/cache-zk
+/cache_hardhat-zk
+/deployments-zk/dockerizedNode
+/deployments-zk/inMemoryNode
+/deployments-zk/hardhatZk
+/deployments-zk/localAnvil
+/zkout
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+# yarn cache
+/.yarn

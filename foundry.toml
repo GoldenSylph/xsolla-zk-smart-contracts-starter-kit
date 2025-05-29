@@ -1,0 +1,8 @@
+[profile.default]
+fs_permissions = [{ access = "read-write", path = "./"}]
+src = 'contracts'
+libs = ['node_modules', 'lib']
+test = 'test/solidity'
+script = 'scripts/solidity'
+[profile.default.zksync]
+compile = true

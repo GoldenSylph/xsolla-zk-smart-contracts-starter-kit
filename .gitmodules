@@ -1,0 +1,15 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/seaport"]
+	path = lib/seaport
+	url = https://github.com/ProjectOpenSea/seaport
+[submodule "lib/zksync-sso-clave-contracts"]
+	path = lib/zksync-sso-clave-contracts
+	url = https://github.com/matter-labs/zksync-sso-clave-contracts
+[submodule "lib/forge-zksync-std"]
+	path = lib/forge-zksync-std
+	url = https://github.com/Moonsong-Labs/forge-zksync-std
+[submodule "lib/era-contracts"]
+	path = lib/era-contracts
+	url = https://github.com/matter-labs/era-contracts

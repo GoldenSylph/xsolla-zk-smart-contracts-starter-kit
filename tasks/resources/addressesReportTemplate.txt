@@ -1,0 +1,10 @@
+__Xsolla ZK Deployed Contracts__
+{{#each networks }}
+>Network: `{{this.name}}`
+{{#each this.contracts }}
+
+*{{this.name}}*: [{{this.address}}](https://xsollazk.com/explorer/address/{{this.address}})
+
+{{/each}}
+
+{{/each}}
