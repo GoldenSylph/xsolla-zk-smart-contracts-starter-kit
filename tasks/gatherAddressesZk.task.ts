@@ -42,7 +42,7 @@ export default (task: any) =>
     )
     .addFlag(
       'tg',
-      'Define if the report is to be immideately sent to the Telegram chat group.',
+      'Define if the report is to be immideately sent to the Telegram chat group (ensure that .env is configured for that correctly like in .env.example).',
     )
     .setAction(
       async ({ report, mocks, nocompile, tg }: { report: string, mocks: boolean, nocompile: boolean, tg: boolean }, hre: HardhatRuntimeEnvironment) => {

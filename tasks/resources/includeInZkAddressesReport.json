@@ -29,6 +29,30 @@
             {
                 "name": "GameBazaar (OpenSea Seaport v1.6)",
                 "address": "0x158cB00a714DceA09b3A56340c8ae14ec35137F4"
+            },
+            {
+                "name": "UniswapV2Factory",
+                "address": "0x0d4440815D54Bc64f655012B41c34c872CF860d8"
+            },
+            {
+                "name": "UniswapV2Router02",
+                "address": "0xc0bBB78BDF1666AA5c95668C6162D7fcaC8b81b5"
+            },
+            {
+                "name": "IUniswapV2Pair (TestToken1/TestToken2)",
+                "address": "0xE0a4066C69Ca08200bc689a2Fe4202a2906E6C26"
+            },
+            {
+                "name": "TestToken1",
+                "address": "0x842f7C65f37A2161Ca18A0acc386980539790de3"
+            },
+            {
+                "name": "TestToken2",
+                "address": "0xc4E8858C26fCE72B49c227005ABdd8BfCB32dCC1"
+            },
+            {
+                "name": "12Swap (Diamond-proxy)",
+                "address": "0x2b75B459F524a66b397D555043e322A00421A375"
             }
         ]
     }
